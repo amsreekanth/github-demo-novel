@@ -4,3 +4,5 @@ jordan
 - Its time to introduce a new character
 Chapter 2
 - This is the content of chapter 2
+
+Change Gatsby to Catsby
